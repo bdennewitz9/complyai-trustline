@@ -1,0 +1,21 @@
+{
+  "registry_version": "v1.0",
+  "Age Bias": [
+    {
+      "trigger": "energetic young professionals",
+      "type": "Implicit Age Bias",
+      "guidance": "Avoid age-coded language. Use 'enthusiastic team players' instead.",
+      "citation": "EEOC Age Discrimination Guidelines",
+      "confidence": 92
+    }
+  ],
+  "ADA": [
+    {
+      "trigger": "must lift 50 pounds",
+      "type": "Physical Ability Barrier",
+      "guidance": "Consider whether lifting is essential. Use 'occasionally lift with accommodations' instead.",
+      "citation": "ADA Accessibility Standards",
+      "confidence": 90
+    }
+  ]
+}
