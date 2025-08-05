@@ -1,3 +1,10 @@
-streamlit
-openai
-pdfplumber
+streamlit==1.33.0
+openai==1.14.3
+pandas
+numpy
+scikit-learn
+tqdm
+regex
+typing_extensions
+requests
+plotly

@@ -1,0 +1,2 @@
+Separating workers into certain protected groups when administering training or programming.
+Limiting membership in workplace groups to certain protected groups.
